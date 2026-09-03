@@ -3,5 +3,11 @@
 public class Main {
     public static void main(String[] args) {
 
+    Estudiante estudianteUno = new Estudiante("juanito","Informatica", 21);
+
+    estudianteUno.mostrarInformacion();
+
+
+
     }
 }
